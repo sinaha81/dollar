@@ -30,4 +30,4 @@
 📥 **فرصت رو از دست نده! همین الان دانلود کن و همیشه از قیمت‌های بازار باخبر باش!** 🚀💸
 
 # لینک دانلود : <br>
-https://github.com/sinaha81/dollar/releases/download/Dollar/Dollar.apk
+https://github.com/sinaha81/dollar/releases/download/Dollar_app/Dollar.apk
