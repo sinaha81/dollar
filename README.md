@@ -32,5 +32,5 @@
 # لینک دانلود : <br>
 https://github.com/sinaha81/dollar/releases/download/Dollar_app/Dollar.apk
 <br>
-                                                                                                                                                                                                  # Donation <br>
+#                                                                                                                                                                                                   Donation <br>
 0x0a375bfe195477fe005ae49a1464db72b05f5748
