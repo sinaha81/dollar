@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "Dollar",
-    "slug": "Dollar",
-    "version": "1.0.0",
+    "name": "Chand",
+    "slug": "chand",
+    "version": "4.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000e1c"
     },
     "ios": {
       "supportsTablet": true
@@ -18,11 +18,18 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#000e1c"
+      },
+      "package": "com.sina.hamidi.dollar"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "80ed44dc-907c-4a81-9bd5-778ac2b7630f"
+      }
+    },
+    "owner": "sinaha818181"
   }
 }
