@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Chand",
+    "slug": "chand",
+    "version": "4.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000e1c"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#000e1c"
+      },
+      "package": "com.sina.hamidi.dollar"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "80ed44dc-907c-4a81-9bd5-778ac2b7630f"
+      }
+    },
+    "owner": "sinaha818181"
+  }
+}
